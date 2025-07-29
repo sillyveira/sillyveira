@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,nodejs,express,docker,mongodb,postgres,sqlite,&theme=dark&perline=6">
+<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,vite,nodejs,express,docker,mongodb,postgres,flutter,&theme=dark&perline=6">
 </img>
 </p>
